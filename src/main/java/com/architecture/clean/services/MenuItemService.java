@@ -4,7 +4,6 @@ import com.architecture.clean.core.domain.MenuItem;
 import com.architecture.clean.core.exceptions.MenuItemDoesNotExist;
 import com.architecture.clean.gateways.mappers.MenuItemMap;
 import com.architecture.clean.gateways.repositories.MenuItemRepository;
-import com.architecture.clean.web.dtos.menu_item.ResponseMenuItemDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
