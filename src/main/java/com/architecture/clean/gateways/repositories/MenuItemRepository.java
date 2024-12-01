@@ -2,7 +2,6 @@ package com.architecture.clean.gateways.repositories;
 
 import com.architecture.clean.core.domain.MenuItem;
 import com.architecture.clean.infra.persistence.entities.MenuItemEntity;
-import com.architecture.clean.web.dtos.menu_item.ResponseMenuItemDTO;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
